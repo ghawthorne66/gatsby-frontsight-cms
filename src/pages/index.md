@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Digital Marketing for Your Business
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 'Create a Better Online Presence '
+subheading: Helping Contractors Be Seen
 mainpitch:
   title: Why Kaldi
   description: >
