@@ -2,15 +2,16 @@
 templateKey: index-page
 title: Digital Marketing for Your Business
 image: /img/home-jumbotron.jpg
-heading: 'Create a Better Online Presence '
-subheading: Helping Contractors Be Seen
+heading: Build a better online presence for your local business
+subheading: Make Your Home Service Website Your Most Effective Sales Tool
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: What Makes Front Sight Marketing Different
+  description: >-
+    We are a customer-focused digital marketing agency. We create custom
+    websites and digital strategies for companies in the home service
+    industries. Doing this the with laser focus allows our digital marketing
+    services to attract more search engine traffic and generate high-quality
+    leads
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -45,7 +46,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: We'll create something awesome that makes a difference in your business.
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
