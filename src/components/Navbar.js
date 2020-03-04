@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/fs_text.svg'
+import logo from '../img/fs_icon.svg'
+import logotwo from '../img/fs_text.svg'
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -42,7 +44,8 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="Front Sight Marketing icon" style={{ height:'250px', width: '88px' }} />
+              <img src={logotwo} alt="Front Sight Marketing" style={{ height:'300px' }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -72,9 +75,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
+              {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
-              </Link>
+              </Link> */}
             </div>
             <div className="navbar-end has-text-centered">
               <a
