@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Digital Marketing for Your Business
-image: /img/front-sight-marketing-rev3.jpg
+image: /img/home-jumbotron.jpg
 heading: 'Create a Better Online Presence '
 subheading: Helping Contractors Be Seen
 mainpitch:
