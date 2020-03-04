@@ -3,15 +3,15 @@ templateKey: index-page
 title: Digital Marketing for Your Business
 image: /img/home-jumbotron.jpg
 heading: Build a better online presence for your local business
-subheading: Helping Contractors Be Seen
+subheading: Make Your Home Service Website Into Your Best Sales Tool
 mainpitch:
-  title: Why Kaldi
+  title: What Makes Front Sight Marketing Different
   description: >-
-    Front Sight Marketing is a customer-focused digital marketing agency. We
-    create custom websites and digital strategies for companies in the home
-    service industries. Doing this the with laser focus allows our digital
-    marketing services to attract more search engine traffic and generate
-    high-quality leads
+    We are a customer-focused digital marketing agency. We create custom
+    websites and digital strategies for companies in the home service
+    industries. Doing this the with laser focus allows our digital marketing
+    services to attract more search engine traffic and generate high-quality
+    leads
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
