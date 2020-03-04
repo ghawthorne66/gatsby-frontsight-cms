@@ -3,7 +3,7 @@ templateKey: index-page
 title: Digital Marketing for Your Business
 image: /img/home-jumbotron.jpg
 heading: Build a better online presence for your local business
-subheading: Make Your Home Service Website Into Your Best Sales Tool
+subheading: Make Your Home Service Website Your Most Effective Sales Tool
 mainpitch:
   title: What Makes Front Sight Marketing Different
   description: >-
