@@ -61,10 +61,19 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
+          <div id="phone"
+          className={`navbar-menu ${this.state.navBarActiveClass}`}>
+            <Link className="navbar-item" to="/about">
+                About
+              </Link>
+
+
+          </div>
+          <div
+            id="navMenu"
+            className={`navbar-menu ${this.state.navBarActiveClass}`}
+          >
             <div className="navbar-start has-text-centered">
-
-            <a className="navbar-item" href="tel:855-979-9216">Call (855) 979-9216</a>
-
               <Link className="navbar-item" to="/about">
                 About
               </Link>
@@ -80,6 +89,7 @@ const Navbar = class extends React.Component {
               {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link> */}
+              <h2 className='navbar-item'>CALL (855) 979-9216	</h2>
             </div>
             <div className="navbar-end has-text-centered">
               <a
@@ -94,6 +104,7 @@ const Navbar = class extends React.Component {
               </a>
             </div>
           </div>
+        </div>
       </nav>
     )
   }
