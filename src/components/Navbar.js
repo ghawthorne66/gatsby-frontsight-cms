@@ -44,11 +44,11 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Front Sight Marketing icon" style={{ height: '80px', width: '80px' }} />
+              <img src={logo} alt="Front Sight Marketing icon" style={{ height: '72px', width: '72px' }} />
             </Link>
             <Link to="/" className="navbar-item" title="Logo">
               <img src={logotwo} alt="Front Sight Marketing" style={{ height: '80px', width: '180px' }} />
-            </Link>
+            </Link>  
 
             {/* Hamburger menu */}
             <div
@@ -61,11 +61,10 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
             <div className="navbar-start has-text-centered">
+
+            <a className="navbar-item" href="tel:855-979-9216">Call (855) 979-9216</a>
+
               <Link className="navbar-item" to="/about">
                 About
               </Link>
@@ -89,13 +88,12 @@ const Navbar = class extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="icon">
+                {/* <span className="icon">
                   <img src={github} alt="Github" />
-                </span>
+                </span> */}
               </a>
             </div>
           </div>
-        </div>
       </nav>
     )
   }
