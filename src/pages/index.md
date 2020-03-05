@@ -19,7 +19,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustration.png
+    - image: /img/illustration240.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
