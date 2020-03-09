@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Digital Marketing for Your Business
-image: /img/default-banner.png
+image: /img/stock-hvac-.jpg
 heading: Build a better online presence for your local business
 subheading: Make Your Home Service Website Your Most Effective Sales Tool
 mainpitch:
